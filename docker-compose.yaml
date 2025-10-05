@@ -1,0 +1,5 @@
+services:
+
+  django:
+    container_name: django
+    build: .
